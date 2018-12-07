@@ -8,8 +8,8 @@ This app was created through the 13th module of [Angela Yu appbrewery's course o
 
 # Pods used
 
--**Alamofire**: For networking with the API.
--**Swifty JSON**: For JSON parsing.
+- **Alamofire**: For networking with the API.
+- **Swifty JSON**: For JSON parsing.
 
 
 # This is the final result
